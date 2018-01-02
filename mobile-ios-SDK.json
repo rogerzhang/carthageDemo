@@ -1,5 +1,5 @@
 {
 	"3.5.0": "https://mapbox.s3.amazonaws.com/mapbox-gl-native/ios/builds/mapbox-ios-sdk-3.5.0-dynamic.zip",
-	"1.2.0": "https://raw.githubusercontent.com/rogerzhang/carthageDemo/ff/mobile-ios-SDK.json",
+	"1.2.0": "https://github.com/rogerzhang/carthageDemo/raw/ff/webrtc.tar.bz2",
 	"1.3.0": "https://github.com/charliewilliams/CWNotificationBanner/archive/0.2.2.zip"
 }
